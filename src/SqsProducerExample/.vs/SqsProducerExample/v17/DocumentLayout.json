@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsProducerExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF12511-3FC4-4CFA-80F3-4EB6ABF044D5}|SqsProducerExample.csproj|c:\\dti\\pocs\\examplesawswithdotnet\\src\\sqsproducerexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBF12511-3FC4-4CFA-80F3-4EB6ABF044D5}|SqsProducerExample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECE427-DE9A-45D3-A3B0-CF961E74A22B}|..\\SqsConsumerExample\\SqsConsumerExample.csproj|c:\\dti\\pocs\\examplesawswithdotnet\\src\\sqsconsumerexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECE427-DE9A-45D3-A3B0-CF961E74A22B}|..\\SqsConsumerExample\\SqsConsumerExample.csproj|c:\\dti\\pocs\\examplesawswithdotnet\\src\\sqsconsumerexample\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECE427-DE9A-45D3-A3B0-CF961E74A22B}|..\\SqsConsumerExample\\SqsConsumerExample.csproj|c:\\dti\\pocs\\examplesawswithdotnet\\src\\sqsconsumerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF12511-3FC4-4CFA-80F3-4EB6ABF044D5}|SqsProducerExample.csproj|c:\\dti\\pocs\\examplesawswithdotnet\\src\\sqsproducerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF12511-3FC4-4CFA-80F3-4EB6ABF044D5}|SqsProducerExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF12511-3FC4-4CFA-80F3-4EB6ABF044D5}|SqsProducerExample.csproj|c:\\dti\\pocs\\examplesawswithdotnet\\src\\sqsproducerexample\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF12511-3FC4-4CFA-80F3-4EB6ABF044D5}|SqsProducerExample.csproj|solutionrelative:producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF12511-3FC4-4CFA-80F3-4EB6ABF044D5}|SqsProducerExample.csproj|c:\\dti\\pocs\\examplesawswithdotnet\\src\\sqsproducerexample\\awssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF12511-3FC4-4CFA-80F3-4EB6ABF044D5}|SqsProducerExample.csproj|solutionrelative:awssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECE427-DE9A-45D3-A3B0-CF961E74A22B}|..\\SqsConsumerExample\\SqsConsumerExample.csproj|c:\\dti\\pocs\\examplesawswithdotnet\\src\\sqsconsumerexample\\awssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF12511-3FC4-4CFA-80F3-4EB6ABF044D5}|SqsProducerExample.csproj|c:\\dti\\pocs\\examplesawswithdotnet\\src\\sqsproducerexample\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF12511-3FC4-4CFA-80F3-4EB6ABF044D5}|SqsProducerExample.csproj|solutionrelative:userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFECE427-DE9A-45D3-A3B0-CF961E74A22B}|..\\SqsConsumerExample\\SqsConsumerExample.csproj|c:\\dti\\pocs\\examplesawswithdotnet\\src\\sqsconsumerexample\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 772,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 17,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsProducerExample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsProducerExample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T03:04:44.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsConsumerExample\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\SqsConsumerExample\\appsettings.json",
+              "ToolTip": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsConsumerExample\\appsettings.json",
+              "RelativeToolTip": "..\\SqsConsumerExample\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T03:02:27.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsConsumerExample\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\SqsConsumerExample\\UserDto.cs",
+              "ToolTip": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsConsumerExample\\UserDto.cs",
+              "RelativeToolTip": "..\\SqsConsumerExample\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:49:32.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AwsSettings.cs",
+              "DocumentMoniker": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsConsumerExample\\AwsSettings.cs",
+              "RelativeDocumentMoniker": "..\\SqsConsumerExample\\AwsSettings.cs",
+              "ToolTip": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsConsumerExample\\AwsSettings.cs",
+              "RelativeToolTip": "..\\SqsConsumerExample\\AwsSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:49:21.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consumer.cs",
+              "DocumentMoniker": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsConsumerExample\\Consumer.cs",
+              "RelativeDocumentMoniker": "..\\SqsConsumerExample\\Consumer.cs",
+              "ToolTip": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsConsumerExample\\Consumer.cs",
+              "RelativeToolTip": "..\\SqsConsumerExample\\Consumer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:41:02.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsConsumerExample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SqsConsumerExample\\Program.cs",
+              "ToolTip": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsConsumerExample\\Program.cs",
+              "RelativeToolTip": "..\\SqsConsumerExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:37:33.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsProducerExample\\UserDto.cs",
+              "RelativeDocumentMoniker": "UserDto.cs",
+              "ToolTip": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsProducerExample\\UserDto.cs",
+              "RelativeToolTip": "UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:31:25.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsProducerExample\\Producer.cs",
+              "RelativeDocumentMoniker": "Producer.cs",
+              "ToolTip": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsProducerExample\\Producer.cs",
+              "RelativeToolTip": "Producer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:20:51.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AwsSettings.cs",
+              "DocumentMoniker": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsProducerExample\\AwsSettings.cs",
+              "RelativeDocumentMoniker": "AwsSettings.cs",
+              "ToolTip": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsProducerExample\\AwsSettings.cs",
+              "RelativeToolTip": "AwsSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:14:18.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsProducerExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DTI\\pocs\\ExamplesAWSWithDotnet\\src\\SqsProducerExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:55:40.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
